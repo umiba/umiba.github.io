@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>test - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2023-03-20T00:00:00+09:00</updated><entry><title>homepage</title><link href="/homepage.html" rel="alternate"></link><published>2023-03-20T00:00:00+09:00</published><updated>2023-03-20T00:00:00+09:00</updated><author><name>umiba</name></author><id>tag:None,2023-03-20:/homepage.html</id><content type="html">&lt;h1&gt;ゲーム&lt;/h1&gt;
+&lt;h2&gt;グラブル&lt;/h2&gt;
+&lt;h2&gt;FF14&lt;/h2&gt;
+&lt;h2&gt;Destiny2&lt;/h2&gt;</content><category term="misc"></category></entry></feed>
